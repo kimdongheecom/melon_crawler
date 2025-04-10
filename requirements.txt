@@ -8,4 +8,9 @@ email_validator==2.1.0.post1
 passlib[bcrypt]==1.7.4
 shortuuid==1.0.13
 python-jose[cryptography]==3.3.0
-redis==5.0.1 
+redis==5.0.1
+requests==2.31.0
+httpx==0.25.0
+bs4==0.0.1
+beautifulsoup4==4.12.2
+
